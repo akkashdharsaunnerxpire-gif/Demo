@@ -1,21 +1,51 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login</title>
+    <title>Advanced Login</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
 
-    <h2>Login Page</h2>
+    <div class="container">
 
-    <form>
-        <label>Email:</label><br>
-        <input type="email" name="email"><br><br>
+        <form class="login-box">
+            <h2>Welcome Back 👋</h2>
+            <p class="subtitle">Login to continue</p>
 
-        <label>Password:</label><br>
-        <input type="password" name="password"><br><br>
+            <div class="field">
+                <input type="email" required>
+                <label>Email</label>
+            </div>
 
-        <button type="submit">Login</button>
-    </form>
+            <div class="field">
+                <input type="password" required>
+                <label>Password</label>
+            </div>
+
+            <div class="options">
+                <label>
+                    <input type="checkbox"> Remember me
+                </label>
+                <a href="#">Forgot Password?</a>
+            </div>
+
+            <button type="submit">Login</button>
+
+            <div class="divider">
+                <span>OR</span>
+            </div>
+
+            <div class="social-login">
+                <button type="button" class="google">Google</button>
+                <button type="button" class="facebook">Facebook</button>
+            </div>
+
+            <p class="signup">
+                Don't have an account? <a href="#">Sign up</a>
+            </p>
+        </form>
+
+    </div>
 
 </body>
 </html>
