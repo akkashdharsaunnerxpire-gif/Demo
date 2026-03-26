@@ -7,7 +7,7 @@
 
     <h2>Login Page</h2>
 
-    <form>
+    <form action="details.html">
         <label>Email:</label><br>
         <input type="email" name="email"><br><br>
 
@@ -16,6 +16,6 @@
 
         <button type="submit">Login</button>
     </form>
-
+    
 </body>
 </html>
