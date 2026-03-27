@@ -30,7 +30,7 @@
       <li data-menu="videos" onclick="showContent('videos', this)">📺 Videos</li>
       <li data-menu="market" onclick="showContent('market', this)">🛒 Marketplace</li>
       <li data-menu="settings" onclick="showContent('settings', this)">⚙️ Settings</li>
-      <li data-menu="gaming" onclick="showContent('gaming', this)">🎮 Gaming</li>
+      <li data-menu="gaming" onclick="showContent('gaming', this)">🎮 Privacy</li>
       <li data-menu="memories" onclick="showContent('memories', this)">⏳ Memories</li>
       <li data-menu="events" onclick="showContent('events', this)">📅 Events</li>
     </ul>
