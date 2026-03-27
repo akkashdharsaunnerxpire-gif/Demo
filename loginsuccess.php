@@ -213,7 +213,7 @@
             <p>Everything is synced and secured. Your digital space is ready for action. Have a great session today!</p>
             
             <div style="font-size: 0.9rem; color: var(--accent); font-weight: 500;">
-                MARCH 2026 &bull; LOGGED IN SUCCESSFULLY
+                MARCH 2026 &bull; LOGGED IN SUCCESSFULLYyyyy
             </div>
         </div>
 
