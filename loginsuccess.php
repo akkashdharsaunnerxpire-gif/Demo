@@ -207,7 +207,7 @@
         <div class="hero-section">
             <div class="status-badge">
                 <span class="status-dot"></span>
-                SYSTEMS ONLINEsss
+                SYSTEMS ONLINE
             </div>
             <h1>Welcome <br>Home, Bro.</h1>
             <p>Everything is synced and secured. Your digital space is ready for action. Have a great session today!</p>
