@@ -173,9 +173,7 @@
     </div>
 
   </section>
-
 </div>
-
 <script>
 const loginForm = document.getElementById("loginForm");
 const loginBox = document.getElementById("loginBox");
